@@ -31,3 +31,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Package files
+*.jar
+
+# Compiled Java class files
+*.class
